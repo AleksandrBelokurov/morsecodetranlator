@@ -1,5 +1,5 @@
 #### morsecodetranlator
-#### Implemented a smple morse code to test translator in Qt QML C++
+#### Implemented a smple Morse Code to ASCII text and back translator in Qt QML C++
 --------------------------------------------------------------
 Build
 - Open the Qt creator
